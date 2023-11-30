@@ -5,7 +5,8 @@ library(filesstrings)
 
 #required files
 ## Annotation file for genomes -- vcGenomes
-## Sequence annotation file from NCBI database #optional
+## Assembled genome files from NCBI
+## Query sequence: Specifically from N16961 genomes
 
 
 #set working directory
