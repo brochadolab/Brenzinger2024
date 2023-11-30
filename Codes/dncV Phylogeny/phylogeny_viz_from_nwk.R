@@ -107,8 +107,8 @@ dev.off()
 
 fiveEnz <- read.tree(file.choose())
 
-sss <- cutree(chronos(fiveEnz), k = 4)
-cols3 <- c(3,1,4,2)[sss]
+sss <- cutree(chronos(fiveEnz), k = 5)
+cols3 <- c(3,1,4,2,5)[sss]
 
 plot(as.phylo(fiveEnz), use.edge.length = F, cex = 1, no.margin = F, font = 2, 
      edge.color = 'gray26', node.lty = 1, align.tip.label = F, edge.width = 2.5, 
