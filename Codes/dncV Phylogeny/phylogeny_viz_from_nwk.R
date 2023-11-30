@@ -110,8 +110,6 @@ fiveEnz <- read.tree(file.choose())
 sss <- cutree(chronos(fiveEnz), k = 4)
 cols3 <- c(3,1,4,2)[sss]
 
-quartz(type = 'pdf', file = '../extraValidations/allOthers/sixEnzCladogram.pdf', dpi = 300, height = 5, width = 5)
-
 plot(as.phylo(fiveEnz), use.edge.length = F, cex = 1, no.margin = F, font = 2, 
      edge.color = 'gray26', node.lty = 1, align.tip.label = F, edge.width = 2.5, 
      label.offset = 0.2, tip.color = cols3)
