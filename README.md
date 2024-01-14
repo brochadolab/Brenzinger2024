@@ -1,2 +1,3 @@
 # Brenzinger2024
-Codes and Datasets for Benzinger et al 2024 Nature Paper
+
+Code and  raw OD_600 measurements for the compound screen, MIC determinations and compound combinations from Brenzinger S, Airoldi M, Ogunleye AJ, Jugovic K, Amstalden MK, Brochado AR. The Vibrio cholerae CBASS phage defence system modulates resistance and killing by antifolate antibiotics. *Nat Microbiol.* 2024 Jan;9(1):251-262. doi: 10.1038/s41564-023-01556-y. Epub 2024 Jan 3. PMID: 38172623. 

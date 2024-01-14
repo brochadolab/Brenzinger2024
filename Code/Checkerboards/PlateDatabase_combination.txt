@@ -1,0 +1,9 @@
+CB_id	Plate_id384	Quadrant	CB_position	Replicate	bug	Horiz_drug	Vert_drug	Combination	Horiz_startC	Vert_startC
+wt_1	CB_wt	1	7	1	wt	SMX	TMP	SMX_TMP	5	0.2
+wt_2	CB_wt	2	7	2	wt	SMX	TMP	SMX_TMP	5	0.2
+wt_3	CB_wt	3	7	3	wt	SMX	TMP	SMX_TMP	5	0.2
+wt_4	CB_wt	4	7	4	wt	SMX	TMP	SMX_TMP	5	0.2
+dCBASS_1	CB_dCBASS	1	7	1	dCBASS	SMX	TMP	SMX_TMP	30	0.3
+dCBASS_2	CB_dCBASS	2	7	2	dCBASS	SMX	TMP	SMX_TMP	30	0.3
+dCBASS_3	CB_dCBASS	3	7	3	dCBASS	SMX	TMP	SMX_TMP	30	0.3
+dCBASS_4	CB_dCBASS	4	7	4	dCBASS	SMX	TMP	SMX_TMP	30	0.3
