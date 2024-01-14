@@ -1,5 +1,5 @@
 # Folate Docking
-This folder contains codes for performing molceular docking 
+This folder contains codes for performing the molecular docking in Figure 4c and 4f.
 
 #required:
 - 2D sdf files from PubChem stored in a "ligands/" folder
