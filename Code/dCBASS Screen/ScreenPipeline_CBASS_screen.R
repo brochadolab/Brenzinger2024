@@ -60,7 +60,7 @@ Plates = All_files[grep("txt",All_files)]
 Plates = substr(Plates,1,nchar(Plates)-4) #gets rid of the ".txt"
 
 #PlateDatabase
-file_id = paste0(here_path,"R-scripts/ExampleDatabase.txt",collapse=NULL)
+file_id = paste0(here_path,"R-scripts/Database.txt",collapse=NULL)
 PlateDatabase = read.table(file_id,header = T, sep = "\t")
 file_id = paste0(here_path,"R-scripts/Map.txt",collapse=NULL)
 Map = read.table(file_id,header = T, sep = "\t")
